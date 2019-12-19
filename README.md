@@ -12,7 +12,10 @@ https://www.youtube.com/playlist?list=PL_OdF9Z6GmVaRD6e6sYLQO_WYqTKcj3aj
  https://medium.com/@devopslearning/aws-iam-ec2-instance-role-using-terraform-fa2b21488536
 In our file i have apply the s3 role to ec2 instance to access s3 bucket
 2) To apply role s3 buckets use: 
- https://www.terraform.io/docs/providers/aws/r/s3_bucket_policy.html
+https://www.terraform.io/docs/providers/aws/r/s3_bucket_policy.html
+how to make s3 bukcet public:
+https://havecamerawilltravel.com/photographer/how-allow-public-access-amazon-bucket/
+ 
 3) To create rds Database: 
  https://www.terraform.io/docs/providers/aws/r/db_instance.html
 4) To setup vpc and subnets refers:
