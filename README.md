@@ -7,7 +7,7 @@ With the every creating of file use the following commands to create and apply c
 
 -------------------------
 Take help from the bellow videos to create infra using terraform files:
-https://www.youtube.com/playlist?list=PL_OdF9Z6GmVaRD6e6sYLQO_WYqTKcj3aj
+ https://www.youtube.com/playlist?list=PL_OdF9Z6GmVaRD6e6sYLQO_WYqTKcj3aj
 1) TO apply role and policy to ec2 instance please reffer the bellow link:
  https://medium.com/@devopslearning/aws-iam-ec2-instance-role-using-terraform-fa2b21488536
 In our file i have apply the s3 role to ec2 instance to access s3 bucket
