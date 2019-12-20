@@ -3,7 +3,7 @@ This repo consist of terraform infrastructure files that helps in creating infra
 With the every creating of file use the following commands to create and apply changes to the infrastructure:
 1) terraform init: To start terraform infra creation
 2) terraform plan
-3) terraform apply
+3) terraform applyhttps://www.terraform.io/docs/providers/aws/r/network_interface_sg_attachment.html
 
 -------------------------
 Take help from the bellow videos to create infra using terraform files:
@@ -23,3 +23,6 @@ for subnets
  https://www.terraform.io/docs/providers/aws/r/subnet.html
 5)For security groups:
  https://www.terraform.io/docs/providers/aws/r/security_group.html
+
+6) How to attach a newly created secuity group to ec2 instance:
+ https://www.terraform.io/docs/providers/aws/r/network_interface_sg_attachment.html
