@@ -26,3 +26,6 @@ for subnets
 
 6) How to attach a newly created secuity group to ec2 instance:
  https://www.terraform.io/docs/providers/aws/r/network_interface_sg_attachment.html
+
+7) How to create a vpc, subnet & route table:
+  https://medium.com/@mitesh_shamra/manage-aws-vpc-with-terraform-d477d0b5c9c5
