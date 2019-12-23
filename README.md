@@ -36,3 +36,6 @@ https://www.terraform.io/docs/providers/aws/r/security_group_rule.html
 7) How to create a vpc, subnet & route table:
   https://medium.com/@mitesh_shamra/manage-aws-vpc-with-terraform-d477d0b5c9c5
 
+8) How to setup alarms for ec2:
+  http://stephenmann.io/post/setting-up-monitoring-and-alerting-on-amazon-aws-with-terraform/
+ 
